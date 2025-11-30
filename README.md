@@ -35,7 +35,7 @@
 
 ## Overview
 
-**Neural Network Visualizer** is a web app for exploring neural networks in 3D. It visualizes real time training and supports parameter tweaks for XOR, Linear Regression, and Circle Classification. This repo is a hobby of mine since i started to learn tensorflow.js
+**Neural Network Studio** is a web app for exploring neural networks in 3D. It visualizes real time training and supports parameter tweaks for XOR, Linear Regression, and Circle Classification. This repo is a hobby of mine since i started to learn tensorflow.js
 
 ### Key Features
 - **3D Visualization**: View layers, weights, and activations in real time.
